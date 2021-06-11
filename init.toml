@@ -26,6 +26,9 @@
     bootstrap_before = "myspacevim#before"
     bootstrap_after = "myspacevim#after"
     autocomplete_parens = false
+    vimcompatible = true
+    filemanager = "nerdtree"
+
 
 # Enable autocomplete layer
 [[layers]]
